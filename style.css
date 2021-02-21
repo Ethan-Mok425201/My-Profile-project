@@ -1,0 +1,21 @@
+img{
+    height: 350px;
+}
+.jumbotron{
+    text-align: center;
+    background-color: #00bbc8 !important;
+}
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+}
+#Skills{
+    background-color:#227d9a ;
+}
+#Education{
+    background-color: #5898d4;
+}
+#Contact{
+    background-color: black;
+ color: white;
+}
